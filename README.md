@@ -28,25 +28,29 @@ Todavía me falta camino, pero estoy en proceso. Sé que no estoy donde quiero, 
 - **¿Cómo me sentí?** Confundido, con dudas y nervios sobre si la carrera era para mí.
 - **¿Qué aprendí o reafirmé sobre mí?** Que es normal tener miedo al principio, pero con el tiempo uno se adapta.
 
----
+
+
 
 ###  2. Primera clase de programación
 - **¿Cómo me sentí?** Algo perdido, pero también curioso.
 - **¿Qué aprendí o reafirmé sobre mí?** Que me interesa entender cómo funcionan las cosas y que puedo aprender si me esfuerzo.
 
----
+
+
 
 ###  3. Descubrimiento de la logística
 - **¿Cómo me sentí?** Sorprendido y motivado.
 - **¿Qué aprendí o reafirmé sobre mí?** Que me gusta analizar y planear, y que tengo una mente lógica.
 
----
+
+
 
 ###  4. Casi repruebo una materia
 - **¿Cómo me sentí?** Estresado, pero también determinado.
 - **¿Qué aprendí o reafirmé sobre mí?** Que cuando me enfoco y soy constante, puedo superar cualquier obstáculo.
 
----
+
+
 
 ###  5. Final del ciclo escolar
 - **¿Cómo me sentí?** Orgulloso y más claro sobre lo que quiero.
